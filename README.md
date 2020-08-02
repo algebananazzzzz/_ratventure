@@ -29,4 +29,5 @@ Config.txt consists of editable parameters that can be used to balance the game
 
 You can try to read the source code and die because I didn't comment anything :))
 
-If you can see this Reanee hi you suck!
+
+If you can see this Reanee hi u succ
