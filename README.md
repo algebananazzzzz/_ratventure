@@ -17,9 +17,7 @@ cd _ratventure/ratventure
 python main.py
 ```
 
-If you're using a Windows Operating System (ew inferior), open Git Bash and clone the repository
-
-I can't explain it so just RTFM:
+If you're using a Windows Operating System, RTFM here:
 ```
 https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 ```
