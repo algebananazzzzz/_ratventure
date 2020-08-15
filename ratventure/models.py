@@ -112,7 +112,7 @@ class GameProgressModel:
         return True
 
     def new_game(character):
-        town_names = ['Pochinki', 'Haven', 'Georgopol', 'Ascent', 'Gulag']
+        town_names = ['Pochinki', 'Split', 'Georgopol', 'Ascent', 'Gulag']
 
         town_locations = dict()
 
@@ -127,7 +127,7 @@ class GameProgressModel:
             positions.append(position)
 
             return position
-
+        
         for i in town_names:
             # check if items
 
@@ -442,7 +442,7 @@ class GameProgressModel:
 
         for key, value in enumerate(town_locations):
             if town_locations[value] == char_position:
-                if value == 'Haven':
+                if value == 'Split':
                     if self.char_health < 20:
                         self.char_health += 5
                         self.save()
