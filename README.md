@@ -28,4 +28,3 @@ Config.txt consists of editable parameters that can be used to balance the game
 You can try to rtfsc but you'll prolly tldr so yea
 
 i didnt read the documentation properly so if theres a requirement i didnt satisfy feel free to raise an issue :/
-bruh what kind of idiotic cher actually says can't use what i didnt teach like bruh js bc im smarter than you then im not allowed to be smarter than you stupid sia
